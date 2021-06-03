@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Proposal whereby all the inhabitants of London and Westminster and the parts adjacent may be furnish'd with coles at 21s. per chaldron in the summer and 25s. per chaldron in the winter, and the poor be supply'd at 21s. per chaldron even in the hardest weather.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56023</idno><idno type="EEBO-CITATION">9025631</idno>
+  <idno type="VID">42271</idno>
+  <idno type="EEBO-PROQUEST">2248499265</idno>
+  
+            <idno type="STC">Wing P3715A</idno>
+            <idno type="STC">ESTC R25595</idno>
+            <idno type="OCLC">09025631</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1292:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Proposal whereby all the inhabitants of London and Westminster and the parts adjacent may be furnish'd with coles at 21s. per chaldron in the summer and 25s. per chaldron in the winter, and the poor be supply'd at 21s. per chaldron even in the hardest weather.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coal --  Great Britain --  History.</term>
+               <term type="topical_term">Heating --  Law and legislation --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42271:1"/>
+            <head>A PROPOSAL, whereby all the Inhabitants of London And <hi>Westminster,</hi> and the Parts Adjacent, may be furnish'd with Coles, at 21 s. per Chaldron In the Summer, and 25 <hi>s. per</hi> Chaldron in the Winter, and the Poor be supply'd at 21 <hi>s. per</hi> Chaldron, even in the hardest Weather.</head>
+            <p>IT is manifest for these two last Years Coles have born <hi>Excessive Price,</hi> the People generally having paid one third part more than in former Years, though there has been no hard Weather, which may be chiefly attributed to these Reasons.
+<list>
+                  <item>1. The extraordinary Rates exacted by particular <hi>Seamen,</hi> who formerly serv'd for 35 <hi>s. per</hi> Voyage, and now will not serve under 7 or 8 <hi>l.</hi>
+                  </item>
+                  <item>2. The <hi>Labourers</hi> (who by reason of their apprehension of being prest on board the Ships at their Work) exacted greater Rates than usual.</item>
+                  <item>3. The <hi>Lightermen</hi> exacted greater Rates, being under the same apprehensions, which occasion'd a great delay in delivering the Ships Lading.</item>
+                  <item>4. The frequent Pressing the <hi>Seamen</hi> from on Board the Colliers, has not only often endangered the Ships, (there being scarce hands enough lest to make good their Voyage, when at Sea) but has also made the procuring of <hi>Seamen</hi> very uncertain, even at those <hi>unreasonable Prices,</hi> and by such delays, the oppertunity of winds were often lost.</item>
+                  <item>5. The <hi>great price</hi> of Coles keeps all the <hi>Publick Stores empty,</hi> so that upon a contrary Wind, even in the Sum<g ref="char:EOLhyphen"/>mer, the price has thereby been advanced, 3 <hi>s.</hi> or 4 <hi>s. per</hi> Chaldron; whereas formerly the Store-Houses being full, such sudden Rise was prevented by making Sales from their Stores.</item>
+                  <item>6. The fears of being taken by <hi>Privateers</hi> oblig'd them to stay for <hi>Convoys,</hi> whereas formerly when Laded, they took the advantage of the first fair wind; their staying till the whole Fleet was ready, made it both dilatory, and dangerous.</item>
+               </list>
+            </p>
+            <p>
+               <hi>To Redress the aforesaid Grievances, and that the People may be supply'd with Coles at such easie Rates as aforesaid, it is Humbly offered as followeth.</hi>
+               <list>
+                  <item>1. That a competent number of Masters Trading to <hi>Newcastle,</hi> or whom else the Parliament shall think fit, be impowered to Press Men for that Service, and to oblige them to take the usual pay.</item>
+                  <item>2. That a <hi>Protection</hi> be granted to a sufficient number of <hi>Labourers,</hi> which being protected, would willingly List themselves in Gangs, and be obliged to take the usual Rates; whereas of late, they have exacted 2 <hi>s. per</hi> score for each Man, and so upwards to 3 <hi>s.</hi> when formerly 18 <hi>d.</hi> a score was a good Rate.</item>
+                  <item>3. That a <hi>Protection</hi> be also granted for a competent number of <hi>Lightermen,</hi> which Would make them willing to serve at their former Rates.</item>
+                  <item>4. That the <hi>Masters</hi> of Colliers at <hi>New-Castle</hi> shall not exceed the present Rates during the War.</item>
+                  <item>5. That an establish'd Price be also setled at the <hi>Pool,</hi> or Port of <hi>London,</hi> from 15 <hi>s.</hi> to 18 <hi>s. per</hi> Chaldron in the Summer Season, and from 17 <hi>s.</hi> to 20 <hi>s.</hi> in the Winter, and to be oblig'd to sell their Usual Measure.</item>
+                  <item>6. That there be every Win<g ref="char:EOLhyphen"/>ter a <hi>Bank</hi> of 30000 Chaldron of Coles stored by the Undertakers in several convenient places of of the City, and adjacent Places, from whence the same may be supply'd, in case of contrary winds, or a hard Winter, which in time of Peace has raised Coles in the Summer season, from 21 <hi>s.</hi> to 30 <hi>s. per</hi> Chaldron, and in Winter, from 30 <hi>s.</hi> to 3 <hi>l. per</hi> Chaldron, and upwards: For contrary Winds and extream Frosts will not in probability continue so long, but this quantity will be a competent supply. Besides, this <hi>Bank</hi> is a security to all others as well as the Poor: There shall be no gain made by these Coles, the Poor that fetch them, are always to be allow'd them at 7 <hi>d.</hi> a Bushel, (which is the nearest penny, considering the charge of laying up, and the delivery of them) and no others are to be supply'd from this store but in case of contrary Winds and Frosts, the Town being for the most part sufficiently furnish'd in other Cases.</item>
+                  <item>7. That the Masters of Collieries at <hi>Newcastle</hi> make the same allowance to the <hi>Ship Master</hi> as usual.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Now that the Owners and Masters of Ships may the better afford their Coles at the Rate-aforesaid, it is further propos'd.</hi>
+               <list>
+                  <item>That an Impost or Duty of 10 <hi>d: per</hi> Chaldron <hi>London</hi> Measure, be laid at <hi>Newcastle</hi> upon all Coles Shipt there, for defraying all Losses of Ships taken by <hi>Privateers,</hi> Redemption of Seamen, Charge of Insuring half the value of Ship and Cargo in the Months of <hi>February, March,</hi> and <hi>October,</hi> and towards the Charge of Convoys, <hi>&amp;c.</hi> which may be sufficient to answer all the ends aforesaid, and is very in<g ref="char:EOLhyphen"/>considerable to the extravagant Rates now paid for Coles. Besides, the danger of <hi>Privateers</hi> is not so very considerable; for we cannot find by account, that there have been above 40 Sail of Colliers lost since this present War, which loss is computed to be about 20000 <hi>l.</hi> So that a great part of this Duty may be apply'd to the payment of Convoys.</item>
+                  <item>That His Majesty be pleased to allow 4 small Fifth Rates to Cruise,
+<list>
+                        <item>One from <hi>Orfordness</hi> to <hi>Yarmouth Road,</hi>
+                        </item>
+                        <item>One from the <hi>Rodes</hi> to the <hi>Sporn,</hi>
+                        </item>
+                        <item>One from the <hi>Sporn</hi> to <hi>Flam<g ref="char:EOLhyphen"/>ber-head,</hi> and</item>
+                        <item>One from the <hi>Head</hi> to <hi>Tinmouth-Bar,</hi> which will effectually secure the Coasts from <hi>Pri<g ref="char:EOLhyphen"/>vateers.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>The Quantity of Coles brought into the Port of <hi>London</hi> for these 2 years last past, <hi>viz.</hi> from <hi>Nov.</hi> 1688. to <hi>Nov.</hi> 1690. as appears by a Publick Account from the Office is, 468051 Chaldron.</p>
+            <div type="part">
+               <head>A Computation of what Seamen will be necessary for this Service.</head>
+               <p>The number of Ships employ'd in this Trade is about 400 Sail, of which there are about 300 on
+<pb facs="tcp:42271:2"/> which the stress of the Trade depends, the rest being small Vessels is running in the Winter Season, their Cargo being so small that the Summers price of Coles will not defray their Charges; now the Winter price propos'd is incouragement enough for them, and the great Ships customarily lying up in the Winter, these small Vessels will have a sufficient supply of Seamen.</p>
+               <p>Admit then, That 300 Vessels are sufficient (which is a moderate supposition) If His Majesty will please to grant a <hi>Press</hi> of 6 Seamen or 7 at most to each of the 300 Sail, to be divided proportionably to the Tunnage of each Ship, the said allowance of Men (with the Master and such maim'd Seamen who have been lately very serviceable to them, together with the Ship Boys) will be a sufficient num<g ref="char:EOLhyphen"/>ber to man them: Besides, if wanting▪ they may be supply'd with Landmen, which in the main will be of Service in breeding of Seamen.</p>
+               <p>
+                  <hi>It may be Objected,</hi> The present scarcity of Seamen will make it prejudicial for His Majesties service to grant a Press for <hi>1800</hi> or <hi>2000</hi> men.</p>
+               <p>
+                  <hi>Answer.</hi> 'Tis certain that more than that number, on the least noise of a <hi>Press,</hi> hide themselves, and most of them with the knowledge of the Ship Masters; and when the heat of a <hi>Press</hi> is a little over, they get into the service of the said Colliers; and by the extravagant rates they extort from the Ship-Master, they now get as much in 3 Voyages as formerly in 9; but if they were compel'd to serve at the usual rate of 35 <hi>s.</hi> a Voyage, there will be no obsconding, and consequently the King not so much deceived in his <hi>Press.</hi> Besides, if the King should have an occasion for 1000 of these Men upon any sudden Emergency, The several Masters, <hi>&amp;c.</hi> to have Power to Press as many <hi>Wa<g ref="char:EOLhyphen"/>termen, Bargmen,</hi> and <hi>Cole-Porters</hi> that work on board a Ship the hardship of which cannot be great, for all Married Men and Old Men, that in the strictest <hi>Presses</hi> are never taker up for Their Majesties Service, will be content to go to Sea 1 or 2 Months in the midst of Summer, when they run no ha<g ref="char:EOLhyphen"/>zard. As to the <hi>Cole Porters,</hi> who are between 2 and 3000; at the same time they are wanted at this Service, can't have any Imployment at home.</p>
+               <p>
+                  <hi>For the effectual carrying on this Undertaking, and for the preventing all Abuses therein, it is further propos'd.</hi>
+               </p>
+               <p>That every Master of a Vessel that expects the Benefit of this <hi>Press,</hi> do by the first day of <hi>January</hi> next, give in an account to the Undertakers, or their Agents, of the Tunnage of his Vessel, that a Warrant may be granted to Press his Complyment of Men, and in case he be not ready to be loaded at <hi>Newcastle</hi> by the first of <hi>March</hi> (unless hindred by accident of Wind or Weather) to lose the be<g ref="char:EOLhyphen"/>nenefit for such VVarrant in the Summer; and in case any Ship-Master do Press more than his Com<g ref="char:EOLhyphen"/>plement of Men, or make a Voyage contrary to the design of this Undertaking; the Master to suffer 6 Months Impri<g ref="char:EOLhyphen"/>sonment in the one case, and the Ship to be likewise forfeited in the other; and that the Masters, <hi>&amp;c.</hi> may not abuse their Warrant, to the Oppression of their Majesties Subjects, by taking of Money, <hi>&amp;c.</hi> That two Justices of the Peace may have Power to determine all Disputes arising on the Execution of this Act, and in case of any Misdemeanor by Master, Sea-men, or Undertakers, or their Agents, the said Justices to have Power to Fine, not exceeding — but with liberty of appealing from thence to the Sessions.</p>
+               <p>
+                  <hi>If it be Objected, That the Rates of</hi> 21 <hi>s. and</hi> 25 <hi>s. in Winter, are greater than has been formerly paid.</hi>
+               </p>
+               <p>
+                  <hi>Answer,</hi> If the <hi>Wood-mongers</hi> be oblig'd to sell full Measure, which 'tis well known scarce any of them have done, it will equal the said prices to 20 <hi>s.</hi> and 24 <hi>s. per</hi> Chaldron and under; and those are the lowest Rates that have been known for good Coles.</p>
+               <p>
+                  <hi>To oblige the Wood-mongers to sell full Measure, it is propos'd,</hi>
+                  <lb/> That they measure by the Bushel at the Wharfe, and carry a Bushel in each Cart, if any Customer suspects the Sacks not to be measure, that he send for the Constable of the Parish to see the Coles fairly measured, and if in the Load there be wanting above a Peck, the Wood-monger to forfeit 5 <hi>l.</hi> to be distributed amongst Sea-Mens Widows of the Cole-Trade.</p>
+               <p>
+                  <hi>In short, the advantages of this undertaking are,</hi>
+                  <list>
+                     <item>1st. By these Means there will be more Seamen employed than ever, it being no longer worth their while to hide, for those must starve that will not either serve the King, or this Undertaking.</item>
+                     <item>2dly, The Masters of Colliers at <hi>Newcastle</hi> will receive an apparant benefit in the great encrease of their vent computed to be above one Third part,) for Coles being Cheaper, the People will burn so much the more.</item>
+                     <item>3dl. The Masters and Owners of Ships will have an advan<g ref="char:EOLhyphen"/>tage in the number, dispatch, and security of their Voyages.</item>
+                     <item>4thly. The Woodmongers will have no just reason to complain of their being oblig'd to sell Measure.</item>
+                     <item>5thly. The benefit of the Poor is such, that it may keep Thousands almost from starving, and the middle sort of Trading People will be much the better enabled to pay their Taxes.</item>
+                  </list>
+               </p>
+               <p>On the other side, the Persons that made the greatest advantage of the former Rates were the sculking Seamen, who made their own Terms with the Masters, and they too never the Richer for it; for by hiding three parts in five of their time, they idly spend their profit.</p>
+               <p>This further Consideration is offered to induce the Parliament to all the Expedition the nature of the Thing will ad<g ref="char:EOLhyphen"/>mit of. That if a great Frost should happen this Winter, Coles will be at 4 <hi>l. per</hi> Chaldron, the City being almost without stores, and so consequently the Poor must be starv'd: If contrary Winds should happen in the Spring, Coles must of necessity be at 4 <hi>l. per</hi> Chaldron; and if this method be not followed, let the favourablest Weather that can be hoped for happen in the Spring, Coles must of necessity be at 40 <hi>s.</hi> a Chaldron, for the Private as well as Publick Stores will unavoidably be unfurnished at that time. Now the setling the price for Coles so early, will be a means to keep down the price this Winter, for every one will empty the Stores they have left, by reason of the price falling in the Spring:</p>
+               <p>
+                  <hi>Note,</hi> That the Duty of 10 <hi>d per</hi> Chaldron may be reasonably supposed to defray the Charge of securing Ships against Privateers, Insurance, Building of Ware-houses for Winter stores, and Ground Rent for the same, and also for the In<g ref="char:EOLhyphen"/>terest of the 30000 <hi>l.</hi> for the Bank of Coles; yet in case it should not, the Arrears of the Accompt to be paid by an Additional Duty the succeeding Year; so on the contrary, the remainder to be appropriated to the charge of Convoys as before expressed:</p>
+               <p>
+                  <hi>And for encouragement of the Undertakers Industry, they upon these following Considerations, desire 2d. per Chaldron for themselves, and to defray the following Charges, viz.</hi>
+                  <list>
+                     <item>1st. They must have Agents at <hi>Newcastle, Whitby, &amp;c.</hi> to examine into the Tunnage and number of Seamen required for each Vessel.</item>
+                     <item>2dly. To give an Account of Sculking Seamen.</item>
+                     <item>3dly. To take the several values of Ships and Cargo in case they be taken by Privateers, that they may not pretend their losses to be greater then they are.</item>
+                     <item>4thly. To take care of the Insurance of those Ships that desire it in the Months aforesaid, provided the Owners are willing to insure one half at the same time.</item>
+                     <item>5thly. To take care in the Buying and Managing the storing and delivery of 30000 Chaldron of Coles,</item>
+                     <item>6thly. The Collecting Receiving and Paying the 10 <hi>d. per</hi> Chaldron, as aforesaid.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Note,</hi> That no other use can be made of the 30000 <hi>l.</hi> but in the storing of <hi>Coles,</hi> for in the Summer they must be bought in, and in the Winter the Store Houses are full; they likewise run the hazard of casual Fires, and of the Coles heating and firing as they lye, and other accidents which may happen in the several Ware-Houses.</p>
+               <p>
+                  <hi>And the Undertakers are willing to give what Security shall be thought convenient for the Performance on their Parts.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
